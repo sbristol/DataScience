@@ -1,0 +1,10 @@
+1.
+Currently we have a DFL from a prominent client who sends information regarding how our leads work for them.  With the leads we sell to them, some of them perform well, others do not.  In addition, there exists a sales cycle up to 90 days where one lead may perform successfully after 75 days.  We need to accurately understand how long it takes for an average lead to go from the New ->Qualified - >Success statuses. The data sent back is currently daily, so the funnel could be understood at that level of granularity.  However, they used to send the data much more inconsistently, meaning there exists gaps in the data.  
+
+I would like to get the gap-filled data into a workable format and come up with a chart that displays the standard funnel of leads.
+
+2.
+After accomplishing this, I would like to expand the data to include different dimensions and essentially run flags that pick out data falls below 1 standard deviation from the expected value.  This will allow me to quickly pull out points of interest.
+
+3.
+From here, I would like to analyze specific dimensions as key conveyors of the end-result post-sales cycle.  After finding the key components of what says whether or not a lead will convert for this client, I would like to write a prediction algorithm to display for any current leads, what the chances that they will end up converting will be, so that we can properly forecast.
